@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">సభ్యత్వ నమోదుపత్రం</string>
+    <string name="name">పేరు నమోదు చేయండి</string>
+    <string name="PhNo">ఫోన్ నంబర్ నమోదు చేయండి</string>
+    <string name="RegNo">నమోదు సంఖ్యను నమోదు చేయండి</string>
+    <string name="submit">సమర్పించు</string>
+</resources>
