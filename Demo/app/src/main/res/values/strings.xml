@@ -4,4 +4,10 @@
     <string name="name">Enter Name</string>
     <string name="PhNo">Enter PhoneNo</string>
     <string name="RegNo">Enter RegNo</string>
+
+    <string name="the_result_string" translatable="false">The result text is : "%1$s"</string>
+    <string name="waiting_for_result" translatable="false">Waiting for result</string>
+    <string name="enter_a_text" translatable="false">Enter a text</string>
+    <string name="send_result" translatable="false">Send Result</string>
+    <string name="get_result" translatable="false">Get Result</string>
 </resources>
