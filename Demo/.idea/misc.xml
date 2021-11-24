@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_action_bar.xml" value="0.2" />
+        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_alert_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_alert_dialog2.xml" value="0.25" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_android_life_cycle.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_animation.xml" value="0.2" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_app_localization.xml" value="0.1" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_appchooser.xml" value="0.1" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_check_box_example.xml" value="0.25416666666666665" />
@@ -23,9 +27,9 @@
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_image_view.xml" value="0.23425925925925925" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_implicit_intent.xml" value="0.264" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_intent.xml" value="0.25" />
-        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_permission.xml" value="0.1361111111111111" />
-        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_permission2.xml" value="0.264" />
+        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_permission2.xml" value="0.2" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_picker_example.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_radio_button.xml" value="0.13425925925925927" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_radio_button_example.xml" value="0.25416666666666665" />
@@ -42,12 +46,5 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
-  </component>
-  <component name="VisualizationToolProject">
-    <option name="state">
-      <ProjectState>
-        <option name="scale" value="0.2" />
-      </ProjectState>
-    </option>
   </component>
 </project>
