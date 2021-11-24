@@ -2,24 +2,21 @@ package com.example.demo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import android.widget.Button
-import android.widget.RadioGroup
-import android.widget.TextView
-import android.widget.Toast
+import android.widget.*
 
-class RadioButton : AppCompatActivity() {
+class RadioButtonExample : AppCompatActivity() {
+    lateinit var radioButton: RadioButton
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_radio_button)
+        setContentView(R.layout.activity_radio_button_example)
         val Rgrp = findViewById<RadioGroup>(R.id.RGrp)
         val BtnSubmit = findViewById<Button>(R.id.BtnSubmit)
         val BtnReset = findViewById<Button>(R.id.BtnReset)
         val txtView = findViewById<TextView>(R.id.txtView)
 
-       /* BtnSubmit.setOnClickListener {
+        BtnSubmit.setOnClickListener {
             val selectId:Int = Rgrp.checkedRadioButtonId
-             radioButton = findViewById(selectId)
+            radioButton = findViewById(selectId)
             var out:String = radioButton.text.toString()
             txtView.text = "Selected: $out "
 
@@ -32,9 +29,11 @@ class RadioButton : AppCompatActivity() {
             txtView.text = " "
             Rgrp.setOnCheckedChangeListener(
                 RadioGroup.OnCheckedChangeListener { group, checkedId ->
-                    val radio: RadioButton= findViewById(checkedId)
+                    val radio: RadioButton = findViewById(checkedId)
                     Toast.makeText(
-                        applicationContext, " On checked change : ${radio.text}",Toast.LENGTH_SHORT).show()
+                        applicationContext, " On checked change : ${radio.text}",
+                        Toast.LENGTH_SHORT
+                    ).show()
                     // radio.setTextColor(Color.parseColor("#fe9c02"))
                 }
             )
@@ -46,9 +45,12 @@ class RadioButton : AppCompatActivity() {
             RadioGroup.OnCheckedChangeListener { group, checkedId ->
                 val radio: RadioButton = findViewById(checkedId)
                 Toast.makeText(
-                    applicationContext, " On checked change : ${radio.text}",Toast.LENGTH_SHORT).show()
+                    applicationContext, " On checked change : ${radio.text}",
+                    Toast.LENGTH_SHORT
+                ).show()
                 // radio.setTextColor(Color.parseColor("#fe9c02"))
             }
-        )*/
+        )
+
     }
 }
