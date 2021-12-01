@@ -28,12 +28,13 @@
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_image_transfer1.xml" value="0.2" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_image_transfer2.xml" value="0.2" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_image_view.xml" value="0.23425925925925925" />
-        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_implicit_intent.xml" value="0.264" />
+        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_implicit_intent.xml" value="0.25" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_intent.xml" value="0.25" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_permission.xml" value="0.1361111111111111" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_permission2.xml" value="0.2" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_picker_example.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_popup_menu.xml" value="0.25" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_radio_button.xml" value="0.13425925925925927" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_radio_button_example.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_reg_form.xml" value="0.25" />
@@ -41,6 +42,7 @@
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_snack_bar.xml" value="0.1527777777777778" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_spinner.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_spinner_example.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lakshmi Reddy/AndroidStudioProjects/Demo/app/src/main/res/menu/popupmenu.xml" value="0.25" />
       </map>
     </option>
   </component>
