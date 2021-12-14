@@ -22,9 +22,9 @@ class Appchooser : AppCompatActivity() {
 
         btn2.setOnClickListener {
             var url="https://www.google.com"
-            val intetnt=Intent(Intent.ACTION_VIEW)
-            intetnt.setDataAndType(Uri.parse(url),"text/plain")
-            val choose=Intent.createChooser(intetnt,"Share Url")
+            val intent=Intent(Intent.ACTION_VIEW)
+            intent.setDataAndType(Uri.parse(url),"text/plain")
+            val choose=Intent.createChooser(intent,"Share Url")
             startActivity(choose)
         }
 
